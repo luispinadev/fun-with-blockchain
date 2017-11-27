@@ -1,0 +1,19 @@
+{
+  "name": "funwithchains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf ./src/**.{js.map,js}",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luispinadev",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.53",
+    "@types/ramda": "^0.25.6"
+  }
+}
